@@ -1,2 +1,2 @@
 # local-cli
-delete as soon as posible
+cli made without vscode remote-containers to test correct functionality of go programming language in my local machine
